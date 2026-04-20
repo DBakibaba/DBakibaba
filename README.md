@@ -19,4 +19,4 @@ A multi-agent system where different reviewers (security, performance) analyze c
 Python, SQL, FastAPI, OpenCV, pandas, RAG, ChromaDB, Pydantic
 
 ## Open to Work
-Currently looking for opportunities in Data Engineering and AI-related roles in Toronto.
+Currently open to full-time opportunities in Toronto. Interested in roles involving Python, data pipelines, AI systems, or automation.
